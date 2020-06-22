@@ -5,5 +5,7 @@ date: 22-06-2020
 Hi, I am Piotr and I wrote blog about Python, Docker and
 boardgames.
 
+Stay tuned!
+
 
 [my_photo]: {static}/images/piotrrybinski.JPG
