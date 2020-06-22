@@ -6,4 +6,4 @@ Hi, I am Piotr and I wrote blog about Python, Docker and
 boardgames.
 
 
-[my_photo] = {static}/images/piotrrybinski.jpg
+[my_photo]: {static}/images/piotrrybinski.JPG
