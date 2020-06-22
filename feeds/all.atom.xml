@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Python and more</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-06-22T00:00:00+02:00</updated><entry><title>First Post</title><link href="/first-post.html" rel="alternate"></link><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><author><name>Piotr</name></author><id>tag:None,2020-06-22:/first-post.html</id><content type="html">&lt;h1&gt;Python and more Post 1.&lt;/h1&gt;
 &lt;p&gt;This is my first post on my new blog.
-I will be writing about Python and more!&lt;/p&gt;</content><category term="misc"></category></entry></feed>
+I will be writing about Python and more!&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Second Post</title><link href="/second-post.html" rel="alternate"></link><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><author><name>Piotr</name></author><id>tag:None,2020-06-22:/second-post.html</id><content type="html">&lt;h1&gt;Python and more Post 2.&lt;/h1&gt;
+&lt;p&gt;How to use Docker and why.&lt;/p&gt;</content><category term="misc"></category></entry></feed>
