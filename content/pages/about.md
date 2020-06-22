@@ -1,9 +1,9 @@
-title: First Post
+title: About
 date: 22-06-2020
 ![So Schmexy][my_photo]
 
-Hi, I am Piotr and I wrote blog about Python, Docker and
-boardgames.
+Hi, I my name is Piotr. I am Python Developer.
+I love boargames and Python.
 
 Stay tuned!
 
